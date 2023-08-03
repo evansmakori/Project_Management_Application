@@ -1,5 +1,10 @@
 # SoftwareEng
+## Contributors to this Project 
 
+- **Evans Makori-Project Cordinator-.**
+- **limelite (Kevin Kathei).**
+- **Kiplagat Cosmas**
+  
 Google drive link(Group accessible):
 - https://drive.google.com/open?id=1FxJ_5ipnQX23jRVy_aJ4rQUlMSKbqdK5
 
